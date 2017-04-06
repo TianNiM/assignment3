@@ -1,0 +1,1472 @@
+	winner	score
+0	Durham	160.0
+3	Surrey	158.0
+4	Worcestershire	151.0
+5	Gloucestershire	126.0
+9	Kent	147.0
+11	Nottinghamshire	124.0
+12	Surrey	145.0
+18	Derbyshire	95.0
+19	Gloucestershire	129.0
+20	Lancashire	104.0
+21	Middlesex	165.0
+34	Middlesex	136.0
+44	Sussex	115.0
+47	Surrey	119.0
+55	Eastern Cape	116.0
+57	Dolphins	153.0
+62	Titans	147.0
+67	Kent	157.0
+70	Nottinghamshire	122.0
+81	Nottinghamshire	210.0
+93	Middlesex	121.0
+101	Yorkshire	170.0
+103	Durham	129.0
+106	Lancashire	82.0
+111	Glamorgan	161.0
+117	Leicestershire	169.0
+118	Bloomfield Cricket and Athletic Club	135.0
+119	Burgher Recreation Club	137.0
+122	Colts Cricket Club	106.0
+126	Bloomfield Cricket and Athletic Club	121.0
+127	Colts Cricket Club	135.0
+128	Chilaw Marians Cricket Club	115.0
+135	Lions	134.0
+138	Titans	151.0
+140	Eagles	132.0
+141	Warriors	137.0
+143	Titans	203.0
+144	Warriors	143.0
+149	Titans	151.0
+151	Titans	125.0
+156	Faisalabad Wolves	96.0
+158	Lahore Eagles	215.0
+159	Lahore Lions	116.0
+164	Faisalabad Wolves	167.0
+169	Lahore Eagles	142.0
+172	Derbyshire	134.0
+175	Leicestershire	147.0
+180	Sussex	110.0
+184	Gloucestershire	132.0
+193	Gloucestershire	166.0
+196	Hampshire	155.0
+197	Lancashire	149.0
+200	Durham	180.0
+204	Yorkshire	198.0
+206	Middlesex	145.0
+234	Glamorgan	129.0
+235	Derbyshire	142.0
+238	Leicestershire	178.0
+258	Faisalabad Wolves	142.0
+261	Bloomfield Cricket and Athletic Club	86.0
+267	Sri Lanka Air Force Sports Club	115.0
+268	Tamil Union Cricket and Athletic Club	150.0
+276	Ragama Cricket Club	133.0
+281	Bloomfield Cricket and Athletic Club	92.0
+283	Chilaw Marians Cricket Club	133.0
+289	Bloomfield Cricket and Athletic Club	69.0
+299	Ragama Cricket Club	161.0
+307	Victoria	114.0
+308	New South Wales	168.0
+312	Canterbury	157.0
+317	Auckland	157.0
+322	Lions	102.0
+324	Titans	116.0
+328	Eagles	132.0
+330	Titans	180.0
+339	Eagles	113.0
+346	Lahore Lions	202.0
+347	Abbottabad Rhinos	144.0
+348	Faisalabad Wolves	123.0
+349	Lahore Lions	111.0
+355	Lahore Eagles	175.0
+356	Lahore Lions	121.0
+360	Lahore Eagles	160.0
+372	Peshawar Panthers	141.0
+374	Faisalabad Wolves	108.0
+375	Karachi Zebras	151.0
+378	Faisalabad Wolves	150.0
+386	Sussex	153.0
+387	Yorkshire	123.0
+388	Derbyshire	118.0
+389	Glamorgan	164.0
+398	Durham	139.0
+404	Essex	162.0
+405	Glamorgan	186.0
+406	Sussex	126.0
+415	Gloucestershire	165.0
+417	Nottinghamshire	137.0
+427	Essex	178.0
+432	Surrey	116.0
+436	Essex	160.0
+439	Lancashire	93.0
+440	Worcestershire	200.0
+447	Middlesex	116.0
+448	Nottinghamshire	142.0
+451	Yorkshire	137.0
+455	Leicestershire	156.0
+456	Essex	149.0
+464	Nevis	104.0
+465	St Vincent	96.0
+468	Guyana	116.0
+479	Guyana	176.0
+481	Auckland	153.0
+482	Northern Districts	177.0
+504	Lahore Lions	150.0
+511	New Zealand	116.0
+523	Victoria	206.0
+526	South Africa	132.0
+527	Auckland	150.0
+532	Canterbury	170.0
+533	Wellington	152.0
+537	Wellington	182.0
+543	Bloomfield Cricket and Athletic Club	125.0
+544	Chilaw Marians Cricket Club	126.0
+546	Tamil Union Cricket and Athletic Club	117.0
+548	Moors Sports Club	116.0
+549	Saracens Sports Club	152.0
+550	Sri Lanka Army	91.0
+553	Saracens Sports Club	89.0
+554	Tamil Union Cricket and Athletic Club	176.0
+555	Bloomfield Cricket and Athletic Club	131.0
+557	Moors Sports Club	159.0
+561	Sinhalese Sports Club	63.0
+562	Tamil Union Cricket and Athletic Club	160.0
+563	Burgher Recreation Club	114.0
+565	Panadura Sports Club	161.0
+566	Ragama Cricket Club	132.0
+567	Ragama Cricket Club	149.0
+571	Lions	182.0
+573	Cape Cobras	140.0
+574	Titans	170.0
+577	Warriors	135.0
+581	Lions	175.0
+584	Warriors	155.0
+585	Cape Cobras	140.0
+587	Lions	148.0
+597	Madhya Pradesh	116.0
+599	Railways	164.0
+611	Rajasthan	142.0
+617	Madhya Pradesh	102.0
+620	Rajasthan	158.0
+623	Delhi	163.0
+624	Goa	154.0
+625	Haryana	76.0
+626	Himachal Pradesh	124.0
+630	Uttar Pradesh	138.0
+633	Bengal	160.0
+638	Karnataka	135.0
+641	Punjab	115.0
+642	Railways	115.0
+644	Bengal	134.0
+646	Haryana	114.0
+657	Karnataka	154.0
+659	Railways	104.0
+667	Railways	163.0
+670	England	173.0
+671	Lancashire	152.0
+673	Surrey	168.0
+677	Essex	171.0
+680	Nottinghamshire	167.0
+681	Kent	46.0
+682	Surrey	75.0
+689	Gloucestershire	103.0
+693	Glamorgan	143.0
+694	Durham	104.0
+701	Essex	175.0
+713	Yorkshire	66.0
+714	Hampshire	100.0
+728	Northamptonshire	101.0
+729	Yorkshire	65.0
+735	Gloucestershire	117.0
+742	Yorkshire	122.0
+743	Gloucestershire	131.0
+747	Gloucestershire	152.0
+748	Kent	141.0
+756	South Africa	208.0
+760	Bangladesh	165.0
+764	Australia	136.0
+767	South Africa	146.0
+769	Australia	124.0
+775	South Africa	158.0
+777	Australia	102.0
+783	India	167.0
+784	South Africa	131.0
+789	Tasmania	161.0
+791	Western Australia	187.0
+792	Tasmania	131.0
+794	Western Australia	157.0
+800	Queensland	177.0
+803	South Africa	134.0
+804	Australia	75.0
+805	Northern Districts	133.0
+812	Wellington	143.0
+813	Northern Districts	147.0
+814	Wellington	117.0
+815	Northern Districts	186.0
+817	Central Districts	173.0
+818	Auckland	184.0
+820	Central Districts	150.0
+826	Montserrat	70.0
+838	Jamaica	123.0
+847	Centrals	124.0
+849	Easterns (Zimbabwe)	131.0
+850	Northerns (Zimbabwe)	170.0
+863	Dolphins	132.0
+868	Dolphins	92.0
+869	Cape Cobras	87.0
+871	Cape Cobras	128.0
+876	Dolphins	115.0
+882	Kandurata	137.0
+883	Ruhuna	70.0
+889	Ruhuna	127.0
+899	Delhi Daredevils	132.0
+900	Kolkata Knight Riders	112.0
+902	Rajasthan Royals	168.0
+907	Chennai Super Kings	152.0
+909	Kings XI Punjab	162.0
+920	Rajasthan Royals	110.0
+923	Mumbai Indians	104.0
+926	Rajasthan Royals	141.0
+929	Rajasthan Royals	159.0
+930	Kings XI Punjab	144.0
+932	Mumbai Indians	158.0
+934	Mumbai Indians	68.0
+944	Kings XI Punjab	178.0
+946	Delhi Daredevils	179.0
+948	Kolkata Knight Riders	175.0
+949	Rajasthan Royals	146.0
+954	Chennai Super Kings	116.0
+956	England	127.0
+957	West Indies	102.0
+961	Kent	140.0
+965	Middlesex	116.0
+967	Worcestershire	169.0
+984	Surrey	142.0
+985	Kent	166.0
+987	Middlesex	144.0
+989	Northamptonshire	171.0
+995	Yorkshire	154.0
+1001	Nottinghamshire	150.0
+1007	Durham	123.0
+1012	Derbyshire	122.0
+1016	Sussex	165.0
+1017	Warwickshire	134.0
+1021	Lancashire	154.0
+1022	Hampshire	151.0
+1023	Gloucestershire	135.0
+1026	Warwickshire	177.0
+1027	Worcestershire	163.0
+1057	Ireland	118.0
+1058	Canada	99.0
+1062	Ireland	72.0
+1063	Netherlands	110.0
+1075	Multan Tigers	104.0
+1077	Lahore Eagles	88.0
+1081	Islamabad Leopards	142.0
+1086	Sri Lanka	107.0
+1089	Pakistan	141.0
+1090	Pakistan	110.0
+1099	Stanford Superstars	101.0
+1104	Australia	161.0
+1110	Victoria	184.0
+1112	Western Australia	132.0
+1115	Queensland	164.0
+1121	New South Wales	167.0
+1130	Dolphins	120.0
+1133	Warriors	131.0
+1135	Titans	154.0
+1136	Warriors	127.0
+1137	Dolphins	117.0
+1139	Eagles	105.0
+1143	Warriors	103.0
+1147	New Zealand	166.0
+1148	New Zealand	150.0
+1149	Auckland	150.0
+1153	Canterbury	122.0
+1157	Wellington	164.0
+1161	Auckland	132.0
+1164	Otago	189.0
+1174	West Indies	123.0
+1176	South Africa	168.0
+1178	Ruhuna	74.0
+1182	Wayamba	121.0
+1184	Kandurata	102.0
+1185	Wayamba	130.0
+1190	Basnahira North	129.0
+1191	Basnahira South	161.0
+1197	Centrals	99.0
+1204	Easterns (Zimbabwe)	136.0
+1214	Deccan Chargers	104.0
+1229	Royal Challengers Bangalore	143.0
+1237	Kings XI Punjab	154.0
+1238	Royal Challengers Bangalore	150.0
+1241	Delhi Daredevils	157.0
+1245	Delhi Daredevils	118.0
+1247	Chennai Super Kings	141.0
+1249	Delhi Daredevils	125.0
+1251	Royal Challengers Bangalore	176.0
+1254	Royal Challengers Bangalore	132.0
+1257	Chennai Super Kings	151.0
+1258	Deccan Chargers	166.0
+1262	Royal Challengers Bangalore	135.0
+1263	Kolkata Knight Riders	102.0
+1265	Delhi Daredevils	166.0
+1268	Royal Challengers Bangalore	149.0
+1272	Lahore Eagles	140.0
+1273	Lahore Lions	136.0
+1274	Islamabad Leopards	153.0
+1276	Hyderabad Hawks	150.0
+1283	Lahore Lions	126.0
+1289	New Zealand	90.0
+1299	India	113.0
+1314	Pakistan	139.0
+1316	Australia A	172.0
+1317	West Indies	119.0
+1319	Hampshire	137.0
+1322	Yorkshire	149.0
+1327	Lancashire	107.0
+1330	Somerset	190.0
+1337	Kent	107.0
+1340	Warwickshire	149.0
+1344	Essex	169.0
+1345	Sussex	128.0
+1352	Kent	133.0
+1354	Somerset	132.0
+1357	Sussex	120.0
+1360	Yorkshire	117.0
+1366	Lancashire	124.0
+1368	Warwickshire	139.0
+1369	Yorkshire	156.0
+1377	Essex	151.0
+1378	Sussex	125.0
+1380	Somerset	177.0
+1381	Warwickshire	149.0
+1384	Nottinghamshire	124.0
+1393	Nottinghamshire	166.0
+1404	Northamptonshire	110.0
+1433	Eagles	133.0
+1435	Cape Cobras	129.0
+1436	Royal Challengers Bangalore	139.0
+1437	New South Wales	112.0
+1448	India	211.0
+1453	Victoria	179.0
+1454	South Australia	160.0
+1461	Victoria	161.0
+1463	New South Wales	82.0
+1471	Wellington	166.0
+1475	Auckland	156.0
+1481	Central Districts	141.0
+1482	Northern Districts	120.0
+1483	Otago	171.0
+1497	New Zealand	79.0
+1498	Kenya	127.0
+1500	Kenya	110.0
+1503	Kenya	126.0
+1504	Sri Lanka A	94.0
+1508	Afghanistan	143.0
+1509	Sri Lanka A	178.0
+1518	United Arab Emirates	168.0
+1527	Afghanistan	147.0
+1528	England	130.0
+1530	Mountaineers	126.0
+1534	Mid West Rhinos	146.0
+1536	Mashonaland Eagles	143.0
+1539	Mashonaland Eagles	171.0
+1541	Mid West Rhinos	179.0
+1548	Australia	142.0
+1556	Multan Tigers	103.0
+1560	Lahore Lions	121.0
+1565	Faisalabad Wolves	106.0
+1570	Ruhuna	185.0
+1571	Wayamba	145.0
+1577	Wayamba	131.0
+1580	Basnahira South	131.0
+1581	Ruhuna	168.0
+1582	Basnahira North	132.0
+1599	Lions	162.0
+1603	Lions	146.0
+1624	Assam	84.0
+1629	Jharkhand	32.0
+1630	Punjab	115.0
+1634	Delhi	138.0
+1637	Madhya Pradesh	164.0
+1638	Maharashtra	110.0
+1648	Railways	135.0
+1651	Madhya Pradesh	140.0
+1653	Baroda	161.0
+1655	Delhi	130.0
+1656	Himachal Pradesh	152.0
+1666	Madhya Pradesh	141.0
+1669	Assam	156.0
+1671	Hyderabad (India)	183.0
+1674	Maharashtra	154.0
+1679	Dhaka Division	151.0
+1681	Barisal Division	118.0
+1686	Dhaka Division	127.0
+1690	Dhaka Division	84.0
+1692	Khulna Division	134.0
+1698	Kolkata Knight Riders	136.0
+1701	Royal Challengers Bangalore	204.0
+1704	Royal Challengers Bangalore	93.0
+1711	Mumbai Indians	156.0
+1715	Mumbai Indians	181.0
+1716	Rajasthan Royals	151.0
+1721	Mumbai Indians	164.0
+1722	Chennai Super Kings	162.0
+1732	Rajasthan Royals	157.0
+1735	Kings XI Punjab	158.0
+1736	Deccan Chargers	139.0
+1737	Royal Challengers Bangalore	162.0
+1742	Chennai Super Kings	143.0
+1747	Kolkata Knight Riders	133.0
+1750	Kolkata Knight Riders	135.0
+1753	Royal Challengers Bangalore	86.0
+1755	New Zealand	139.0
+1767	England	151.0
+1776	England	153.0
+1779	England	132.0
+1780	Australia	197.0
+1792	Jamaica	126.0
+1793	Guyana	160.0
+1804	Barbados	154.0
+1810	Warwickshire	151.0
+1813	Hampshire	117.0
+1816	Glamorgan	151.0
+1820	Glamorgan	115.0
+1825	Yorkshire	160.0
+1832	Nottinghamshire	193.0
+1841	Nottinghamshire	155.0
+1848	Warwickshire	178.0
+1855	Somerset	200.0
+1857	Durham	132.0
+1859	Sussex	136.0
+1863	Lancashire	127.0
+1868	Derbyshire	128.0
+1877	Yorkshire	162.0
+1880	Somerset	161.0
+1881	Warwickshire	152.0
+1882	Worcestershire	142.0
+1883	Nottinghamshire	159.0
+1885	Essex	188.0
+1886	Glamorgan	167.0
+1891	Worcestershire	148.0
+1894	Somerset	139.0
+1898	Gloucestershire	154.0
+1904	Derbyshire	135.0
+1905	Essex	163.0
+1915	Somerset	220.0
+1917	Lancashire	163.0
+1925	Worcestershire	172.0
+1927	Kent	130.0
+1934	Essex	167.0
+1942	Nottinghamshire	116.0
+1953	Somerset	115.0
+1954	Essex	184.0
+1955	Hampshire	157.0
+1958	England	129.0
+1959	England	90.0
+1961	Warriors	156.0
+1964	Royal Challengers Bangalore	106.0
+1973	Lions	149.0
+1975	Victoria	108.0
+1983	South Africa	169.0
+1985	Multan Tigers	128.0
+1991	Hyderabad Hawks	180.0
+1995	Abbottabad Falcons	124.0
+1996	Lahore Lions	94.0
+2007	West Indies A	118.0
+2014	Mashonaland Eagles	178.0
+2018	Mashonaland Eagles	74.0
+2019	Mid West Rhinos	152.0
+2020	Matabeleland Tuskers	158.0
+2022	New Zealand	146.0
+2027	Wellington	156.0
+2038	Canterbury	171.0
+2039	Northern Districts	142.0
+2048	Central Districts	113.0
+2053	Central Districts	183.0
+2062	Barbados	116.0
+2064	Combined Campuses and Colleges	139.0
+2086	Queensland	119.0
+2089	Tasmania	108.0
+2091	Western Australia	146.0
+2102	South Australia	155.0
+2108	Kerala	150.0
+2123	Orissa	143.0
+2124	Rajasthan	178.0
+2126	Madhya Pradesh	188.0
+2134	Haryana	134.0
+2135	Railways	159.0
+2136	Baroda	130.0
+2138	Assam	121.0
+2140	Delhi	138.0
+2141	Haryana	84.0
+2146	Orissa	111.0
+2148	Assam	142.0
+2150	Delhi	149.0
+2153	Baroda	114.0
+2158	Delhi	128.0
+2166	Madhya Pradesh	127.0
+2172	Cape Cobras	177.0
+2173	Lions	159.0
+2174	Warriors	164.0
+2182	Titans	107.0
+2184	Cape Cobras	127.0
+2185	Titans	146.0
+2186	Dolphins	157.0
+2187	Warriors	129.0
+2188	Cape Cobras	142.0
+2199	Pune Warriors	113.0
+2201	Rajasthan Royals	152.0
+2203	Kings XI Punjab	193.0
+2204	Pune Warriors	151.0
+2211	Kolkata Knight Riders	85.0
+2212	Kochi Tuskers Kerala	135.0
+2215	Mumbai Indians	124.0
+2222	Rajasthan Royals	111.0
+2228	Rajasthan Royals	95.0
+2231	Kolkata Knight Riders	120.0
+2232	Rajasthan Royals	144.0
+2237	Chennai Super Kings	149.0
+2244	Royal Challengers Bangalore	128.0
+2252	Royal Challengers Bangalore	105.0
+2255	Kochi Tuskers Kerala	98.0
+2263	Royal Challengers Bangalore	129.0
+2273	Hyderabad Hawks	165.0
+2292	Basnahira	121.0
+2295	Combined Provinces	156.0
+2303	Canada	141.0
+2307	Hampshire	146.0
+2309	Surrey	156.0
+2318	Hampshire	144.0
+2330	Hampshire	121.0
+2337	Worcestershire	135.0
+2353	Sussex	91.0
+2354	Kent	167.0
+2386	Derbyshire	141.0
+2391	Kent	153.0
+2392	Somerset	172.0
+2395	Leicestershire	147.0
+2398	Gloucestershire	124.0
+2404	Kent	156.0
+2408	Lancashire	82.0
+2409	Leicestershire	131.0
+2411	Sussex	125.0
+2412	Kent	142.0
+2422	Sussex	134.0
+2424	Leicestershire	151.0
+2429	Essex	146.0
+2432	Lancashire	106.0
+2434	Yorkshire	150.0
+2437	Warwickshire	148.0
+2451	Leicestershire	206.0
+2458	England	169.0
+2461	England	128.0
+2469	Lahore Eagles	129.0
+2496	Cape Cobras	136.0
+2500	Mumbai Indians	99.0
+2503	Chennai Super Kings	146.0
+2514	Royal Challengers Bangalore	215.0
+2515	Royal Challengers Bangalore	204.0
+2518	Bangladesh	135.0
+2520	South Africa	148.0
+2525	Namibia	171.0
+2527	Namibia	198.0
+2531	Namibia	94.0
+2534	Pakistan	142.0
+2542	Mid West Rhinos	175.0
+2563	Eastern Province	85.0
+2564	Free State	174.0
+2566	Eastern Province	108.0
+2567	Griqualand West	152.0
+2570	KwaZulu-Natal	129.0
+2577	Western Province	135.0
+2580	Griqualand West	129.0
+2582	Eastern Province	103.0
+2584	North West	184.0
+2585	Northerns	119.0
+2586	South Western Districts	104.0
+2587	Easterns	141.0
+2589	North West	163.0
+2594	Guyana	139.0
+2600	Barbados	76.0
+2608	Barbados	90.0
+2611	Jamaica	118.0
+2612	Barbados	81.0
+2613	Jamaica	99.0
+2619	Otago	160.0
+2620	Auckland	156.0
+2623	Wellington	161.0
+2628	Otago	174.0
+2632	Northern Districts	130.0
+2635	Canterbury	189.0
+2639	Auckland	91.0
+2650	Sydney Sixers	140.0
+2657	Sydney Thunder	156.0
+2662	Hobart Hurricanes	139.0
+2663	Melbourne Renegades	164.0
+2675	Hobart Hurricanes	174.0
+2677	Melbourne Stars	129.0
+2683	New Zealand	160.0
+2684	New Zealand	202.0
+2685	New Zealand	148.0
+2694	Barisal Burners	167.0
+2698	Chittagong Kings	174.0
+2699	Dhaka Gladiators	126.0
+2704	Chittagong Kings	154.0
+2705	Duronto Rajshahi	146.0
+2711	Barisal Burners	121.0
+2714	Dhaka Gladiators	132.0
+2715	Barisal Burners	162.0
+2720	Duronto Rajshahi	110.0
+2721	Barisal Burners	151.0
+2724	Barisal Burners	189.0
+2727	Afghanistan	113.0
+2728	Italy	90.0
+2730	Uganda	124.0
+2735	Ireland	72.0
+2739	Afghanistan	150.0
+2743	Canada	84.0
+2745	Ireland	104.0
+2761	Netherlands	141.0
+2767	Netherlands	86.0
+2769	Kenya	93.0
+2770	Afghanistan	104.0
+2771	Bermuda	158.0
+2785	Hong Kong	134.0
+2786	Netherlands	169.0
+2792	Ireland	115.0
+2796	Nepal	133.0
+2797	Ireland	96.0
+2807	Karnataka	135.0
+2822	Delhi	122.0
+2824	Madhya Pradesh	128.0
+2829	Haryana	130.0
+2831	Uttar Pradesh	160.0
+2834	Haryana	70.0
+2835	Punjab	89.0
+2836	Railways	114.0
+2840	Mumbai	154.0
+2841	Jharkhand	104.0
+2842	Bengal	98.0
+2845	Delhi	105.0
+2847	Railways	136.0
+2854	Haryana	97.0
+2855	Railways	166.0
+2865	Baroda	173.0
+2871	Faisalabad Wolves	128.0
+2872	Lahore Lions	136.0
+2897	Lions	179.0
+2899	Knights	135.0
+2914	Cape Cobras	157.0
+2919	Titans	127.0
+2923	Knights	142.0
+2924	Titans	157.0
+2925	Dolphins	124.0
+2930	Burgher Recreation Club	164.0
+2933	Nondescripts Cricket Club	95.0
+2934	Bloomfield Cricket and Athletic Club	150.0
+2935	Colombo Cricket Club	137.0
+2936	Moors Sports Club	129.0
+2938	Burgher Recreation Club	113.0
+2939	Colombo Cricket Club	105.0
+2940	Panadura Sports Club	71.0
+2944	Lankan Cricket Club	93.0
+2946	Badureliya Sports Club	162.0
+2949	Sinhalese Sports Club	74.0
+2954	Bloomfield Cricket and Athletic Club	147.0
+2961	Ragama Cricket Club	152.0
+2963	Burgher Recreation Club	41.0
+2964	Kurunegala Youth Cricket Club	130.0
+2984	Delhi Daredevils	111.0
+2986	Chennai Super Kings	208.0
+2987	Kings XI Punjab	116.0
+2988	Kolkata Knight Riders	137.0
+2989	Pune Warriors	156.0
+2993	Rajasthan Royals	197.0
+2994	Royal Challengers Bangalore	186.0
+2996	Delhi Daredevils	162.0
+2999	Chennai Super Kings	147.0
+3013	Mumbai Indians	101.0
+3022	Mumbai Indians	174.0
+3023	Royal Challengers Bangalore	185.0
+3032	Chennai Super Kings	115.0
+3034	Kings XI Punjab	194.0
+3037	Delhi Daredevils	140.0
+3039	Kings XI Punjab	123.0
+3041	Deccan Chargers	128.0
+3049	Kolkata Knight Riders	192.0
+3052	West Indies A	131.0
+3054	England	173.0
+3059	Bangladesh XI	132.0
+3061	Zimbabwe XI	150.0
+3069	Netherlands	131.0
+3087	Somerset	141.0
+3089	Kent	120.0
+3093	Warwickshire	152.0
+3094	Lancashire	180.0
+3101	Somerset	182.0
+3104	Essex	145.0
+3113	Lancashire	122.0
+3116	Durham	132.0
+3129	Hampshire	95.0
+3131	Durham	117.0
+3139	Gloucestershire	160.0
+3141	Essex	110.0
+3166	Hampshire	126.0
+3171	Uva Next	139.0
+3182	Uthura Rudras	156.0
+3195	Trinidad & Tobago	155.0
+3196	Afghanistan	122.0
+3197	Trinidad & Tobago	129.0
+3207	Australia	125.0
+3209	South Africa	94.0
+3220	Pakistan	136.0
+3221	Australia	141.0
+3222	England	149.0
+3223	Sri Lanka	130.0
+3224	Australia	147.0
+3225	India	129.0
+3234	Auckland	136.0
+3235	Auckland	123.0
+3242	Lions	158.0
+3243	Auckland	139.0
+3244	Sydney Sixers	98.0
+3251	Lions	134.0
+3253	Delhi Daredevils	123.0
+3255	Chennai Super Kings	141.0
+3260	Sydney Sixers	164.0
+3265	Multan Tigers	74.0
+3268	Lahore Lions	144.0
+3275	Bahawalpur Stags	153.0
+3277	Abbottabad Falcons	120.0
+3278	Faisalabad Wolves	101.0
+3282	Lahore Lions	105.0
+3285	Karachi Zebras	126.0
+3287	Abbottabad Falcons	139.0
+3289	Faisalabad Wolves	137.0
+3290	Bahawalpur Stags	140.0
+3296	Faisalabad Wolves	148.0
+3298	Islamabad Leopards	115.0
+3304	Lahore Lions	166.0
+3309	India	158.0
+3311	South Africa	87.0
+3316	Melbourne Renegades	168.0
+3317	Sydney Sixers	147.0
+3323	Melbourne Stars	135.0
+3326	Melbourne Renegades	103.0
+3329	Melbourne Renegades	137.0
+3331	Adelaide Strikers	136.0
+3337	Hobart Hurricanes	153.0
+3340	Perth Scorchers	117.0
+3352	Barbados	91.0
+3354	Barbados	73.0
+3364	Jamaica	94.0
+3365	Trinidad & Tobago	126.0
+3371	Guyana	118.0
+3375	Wellington	148.0
+3377	Northern Districts	153.0
+3389	Canterbury	153.0
+3390	Northern Districts	200.0
+3396	Central Districts	182.0
+3402	Auckland	137.0
+3403	Otago	165.0
+3405	Otago	145.0
+3409	Mashonaland Eagles	121.0
+3412	Southern Rocks	122.0
+3421	Mid West Rhinos	123.0
+3438	Barisal Burners	146.0
+3452	Sylhet Royals	126.0
+3455	Chittagong Kings	137.0
+3458	Duronto Rajshahi	168.0
+3459	Barisal Burners	148.0
+3460	Duronto Rajshahi	152.0
+3464	Khulna Royal Bengals	140.0
+3468	Dhaka Gladiators	180.0
+3471	Barisal Burners	117.0
+3477	Chittagong Kings	108.0
+3479	Chittagong Kings	150.0
+3483	West Indies	131.0
+3486	Afghanistan	140.0
+3487	Canada	128.0
+3498	Faisalabad Wolves	161.0
+3511	Gujarat	148.0
+3517	Rajasthan	128.0
+3518	Delhi	162.0
+3519	Services	109.0
+3520	Andhra	163.0
+3521	Assam	141.0
+3523	Jharkhand	107.0
+3529	Madhya Pradesh	138.0
+3530	Delhi	110.0
+3533	Assam	122.0
+3539	Railways	144.0
+3542	Bengal	105.0
+3545	Himachal Pradesh	136.0
+3546	Punjab	116.0
+3547	Andhra	149.0
+3548	Assam	149.0
+3549	Baroda	134.0
+3552	Kerala	188.0
+3555	Madhya Pradesh	159.0
+3557	Haryana	168.0
+3563	Uttar Pradesh	131.0
+3568	Gujarat	152.0
+3569	Karnataka	133.0
+3579	Kerala	126.0
+3581	Gujarat	157.0
+3584	Baroda	169.0
+3586	Gujarat	128.0
+3592	Eastern Province	119.0
+3593	Free State	149.0
+3597	Border	134.0
+3603	North West	158.0
+3605	Gauteng	111.0
+3608	Gauteng	80.0
+3609	Griqualand West	149.0
+3613	Namibia	70.0
+3614	South Western Districts	143.0
+3618	Eastern Province	109.0
+3620	KwaZulu-Natal	125.0
+3627	Griqualand West	166.0
+3630	Western Province	132.0
+3633	Easterns	106.0
+3638	Lions	185.0
+3639	Lions	150.0
+3644	Cape Cobras	137.0
+3645	Knights	133.0
+3646	Titans	117.0
+3648	Warriors	138.0
+3650	Warriors	130.0
+3659	Knights	143.0
+3660	Titans	145.0
+3668	Kenya	176.0
+3669	Kenya	114.0
+3671	Kenya	177.0
+3674	Namibia	192.0
+3676	Namibia	188.0
+3679	Dhaka Metropolis	166.0
+3682	Rajshahi Division	99.0
+3684	Rajshahi Division	154.0
+3687	Kolkata Knight Riders	129.0
+3695	Royal Challengers Bangalore	162.0
+3698	Royal Challengers Bangalore	158.0
+3699	Pune Warriors	148.0
+3702	Chennai Super Kings	166.0
+3704	Rajasthan Royals	126.0
+3711	Sunrisers Hyderabad	127.0
+3713	Royal Challengers Bangalore	123.0
+3714	Delhi Daredevils	165.0
+3715	Kings XI Punjab	186.0
+3716	Chennai Super Kings	186.0
+3720	Chennai Super Kings	160.0
+3721	Kolkata Knight Riders	150.0
+3722	Rajasthan Royals	146.0
+3726	Rajasthan Royals	173.0
+3729	Sunrisers Hyderabad	130.0
+3730	Delhi Daredevils	137.0
+3733	Kolkata Knight Riders	133.0
+3734	Sunrisers Hyderabad	81.0
+3736	Rajasthan Royals	182.0
+3737	Kings XI Punjab	194.0
+3738	Rajasthan Royals	155.0
+3746	Kolkata Knight Riders	116.0
+3747	Rajasthan Royals	144.0
+3748	Mumbai Indians	184.0
+3758	Sunrisers Hyderabad	132.0
+3760	Rajasthan Royals	135.0
+3761	Mumbai Indians	169.0
+3764	West Indies A	82.0
+3768	Scotland	106.0
+3770	Pakistan International Airlines	155.0
+3777	Habib Bank Limited	111.0
+3782	Khan Research Labs	133.0
+3789	Pakistan International Airlines	149.0
+3796	Sri Lanka	164.0
+3799	Hampshire	144.0
+3803	Nottinghamshire	184.0
+3814	Derbyshire	154.0
+3815	Glamorgan	121.0
+3817	Middlesex	174.0
+3819	Somerset	192.0
+3829	Middlesex	142.0
+3830	Somerset	155.0
+3831	Worcestershire	120.0
+3833	Yorkshire	117.0
+3835	Leicestershire	161.0
+3837	Glamorgan	126.0
+3840	Hampshire	122.0
+3843	Essex	172.0
+3846	Northamptonshire	157.0
+3855	Warwickshire	115.0
+3857	Gloucestershire	99.0
+3859	Somerset	78.0
+3864	Glamorgan	161.0
+3866	Lancashire	127.0
+3868	Warwickshire	149.0
+3869	Durham	120.0
+3872	Nottinghamshire	133.0
+3874	Surrey	140.0
+3876	Hampshire	183.0
+3877	Warwickshire	149.0
+3878	Worcestershire	191.0
+3880	Leicestershire	106.0
+3889	Surrey	151.0
+3893	Northamptonshire	171.0
+3902	Kandurata Maroons	113.0
+3906	Guyana Amazon Warriors	118.0
+3907	Barbados Tridents	53.0
+3917	Antigua Hawksbills	98.0
+3921	Jamaica Tallawahs	114.0
+3923	Jamaica Tallawahs	134.0
+3924	Guyana Amazon Warriors	107.0
+3925	Jamaica Tallawahs	152.0
+3926	Jamaica Tallawahs	129.0
+3937	Otago	144.0
+3938	Rajasthan Royals	148.0
+3940	Chennai Super Kings	187.0
+3949	Titans	147.0
+3952	Rajasthan Royals	121.0
+3955	Rajasthan Royals	142.0
+3956	Mumbai Indians	152.0
+3961	India	202.0
+3964	Sri Lanka A	127.0
+3966	Sri Lanka A	125.0
+3967	Sri Lanka A	105.0
+3969	Sri Lanka A	132.0
+3975	Sri Lanka	143.0
+3979	United Arab Emirates	89.0
+3983	Hong Kong	111.0
+3986	United Arab Emirates	121.0
+3987	Bermuda	112.0
+3989	Hong Kong	107.0
+3990	Italy	163.0
+4004	United Arab Emirates	142.0
+4007	Nepal	141.0
+4009	Afghanistan	104.0
+4010	Hong Kong	114.0
+4011	Netherlands	110.0
+4014	Afghanistan	146.0
+4022	Afghanistan	78.0
+4027	Canada	105.0
+4043	Netherlands	149.0
+4046	Afghanistan	96.0
+4052	Habib Bank Limited	118.0
+4055	Khan Research Laboratories	126.0
+4058	Pakistan Television	143.0
+4062	Khan Research Laboratories	142.0
+4064	Pakistan International Airlines	97.0
+4066	Sui Northern Gas Pipelines Limited	66.0
+4067	Pakistan International Airlines	158.0
+4070	National Bank of Pakistan	81.0
+4079	Pakistan	146.0
+4085	Mohammedan Sporting Club	130.0
+4087	Prime Bank Cricket Club	124.0
+4089	Mohammedan Sporting Club	130.0
+4098	New Zealand	163.0
+4106	Wellington	198.0
+4109	Auckland	108.0
+4110	Otago	120.0
+4124	Canterbury	155.0
+4126	Canterbury	157.0
+4132	Australia	131.0
+4135	Sydney Sixers	167.0
+4137	Brisbane Heat	152.0
+4143	Adelaide Strikers	164.0
+4147	Perth Scorchers	161.0
+4152	Melbourne Stars	91.0
+4161	Melbourne Stars	135.0
+4172	Warriors	119.0
+4176	Knights	153.0
+4178	Titans	198.0
+4192	Titans	143.0
+4196	Cape Cobras	149.0
+4240	Faisalabad Wolves	94.0
+4243	Karachi Zebras	141.0
+4244	Islamabad Leopards	117.0
+4247	Abbottabad Falcons	133.0
+4254	West Indies	155.0
+4260	Border	136.0
+4262	KwaZulu-Natal Inland	113.0
+4268	Border	148.0
+4269	Eastern Province	141.0
+4270	Northerns	119.0
+4271	Western Province	185.0
+4281	KwaZulu-Natal	116.0
+4284	Boland	138.0
+4285	KwaZulu-Natal Inland	134.0
+4288	South Western Districts	138.0
+4290	Gauteng	127.0
+4292	South Western Districts	110.0
+4296	Border	138.0
+4298	Free State	139.0
+4300	North West	188.0
+4302	Bangladesh	78.0
+4304	Ireland	164.0
+4305	Netherlands	152.0
+4306	Afghanistan	154.0
+4307	Bangladesh	132.0
+4314	India	131.0
+4318	India	130.0
+4323	England	190.0
+4335	India	176.0
+4342	Maharashtra	124.0
+4344	Delhi	135.0
+4349	Odisha	119.0
+4350	Madhya Pradesh	87.0
+4352	Goa	152.0
+4354	Delhi	123.0
+4361	Railways	118.0
+4363	Hyderabad (India)	141.0
+4364	Baroda	82.0
+4365	Haryana	123.0
+4370	Bengal	153.0
+4372	Delhi	178.0
+4376	Delhi	142.0
+4378	Andhra	77.0
+4379	Baroda	142.0
+4382	Kerala	159.0
+4387	Rajasthan	159.0
+4388	Delhi	145.0
+4389	Haryana	148.0
+4393	Goa	151.0
+4397	Baroda	97.0
+4399	Goa	117.0
+4400	Gujarat	110.0
+4409	Baroda	105.0
+4416	Goa	181.0
+4423	Royal Challengers Bangalore	116.0
+4431	Chennai Super Kings	142.0
+4432	Rajasthan Royals	71.0
+4434	Delhi Daredevils	126.0
+4436	Kings XI Punjab	127.0
+4440	Mumbai Indians	170.0
+4442	Royal Challengers Bangalore	158.0
+4455	Chennai Super Kings	149.0
+4458	Kolkata Knight Riders	142.0
+4464	Sunrisers Hyderabad	161.0
+4465	Kolkata Knight Riders	156.0
+4472	Kolkata Knight Riders	161.0
+4473	Kings XI Punjab	119.0
+4474	Mumbai Indians	195.0
+4476	Chennai Super Kings	176.0
+4478	Kolkata Knight Riders	200.0
+4480	Udarata Rulers	144.0
+4491	Khyber Pakhtunkhwa	146.0
+4495	Guyana Amazon Warriors	140.0
+4496	Trinidad & Tobago Red Steel	125.0
+4501	Guyana Amazon Warriors	118.0
+4505	Trinidad & Tobago Red Steel	180.0
+4506	Barbados Tridents	130.0
+4509	Trinidad & Tobago Red Steel	137.0
+4510	Jamaica Tallawahs	91.0
+4512	Jamaica Tallawahs	138.0
+4515	St Lucia Zouks	108.0
+4519	Antigua Hawksbills	114.0
+4520	Guyana Amazon Warriors	194.0
+4522	Jamaica Tallawahs	158.0
+4531	Sussex	172.0
+4536	Gloucestershire	113.0
+4539	Northamptonshire	179.0
+4542	Essex	195.0
+4547	Worcestershire	138.0
+4548	Yorkshire	128.0
+4550	Glamorgan	179.0
+4552	Surrey	121.0
+4553	Hampshire	146.0
+4561	Warwickshire	147.0
+4565	Worcestershire	107.0
+4573	Surrey	149.0
+4575	Essex	163.0
+4577	Middlesex	155.0
+4578	Warwickshire	136.0
+4581	Worcestershire	134.0
+4585	Essex	157.0
+4590	Gloucestershire	154.0
+4595	Surrey	137.0
+4596	Derbyshire	193.0
+4597	Sussex	110.0
+4599	Durham	129.0
+4602	Surrey	156.0
+4611	Essex	166.0
+4620	Northamptonshire	192.0
+4622	Warwickshire	176.0
+4627	Sussex	153.0
+4628	Surrey	137.0
+4630	Leicestershire	120.0
+4637	Gloucestershire	186.0
+4643	Durham	199.0
+4644	Glamorgan	110.0
+4652	Surrey	144.0
+4665	FATA Cheetas	140.0
+4673	Hyderabad Hawks	154.0
+4674	Multan Tigers	164.0
+4684	Abbottabad Falcons	86.0
+4685	Faisalabad Wolves	146.0
+4686	Bahawalpur Stags	141.0
+4688	Islamabad Leopards	132.0
+4695	Northern Districts	96.0
+4696	Lahore Lions	139.0
+4698	Mumbai Indians	165.0
+4707	Kolkata Knight Riders	153.0
+4710	Kolkata Knight Riders	153.0
+4720	Barbados Tridents	138.0
+4721	Kolkata Knight Riders	141.0
+4723	Chennai Super Kings	185.0
+4724	Australia	97.0
+4727	Australia	102.0
+4728	Australia	146.0
+4733	Hong Kong	73.0
+4739	Canterbury	116.0
+4741	Canterbury	114.0
+4744	Wellington	171.0
+4757	Wellington	111.0
+4758	Otago	142.0
+4760	Central Districts	122.0
+4761	Auckland	156.0
+4765	Northern Districts	136.0
+4767	Auckland	146.0
+4771	Lions	173.0
+4773	Cape Cobras	130.0
+4779	Knights	140.0
+4781	Warriors	143.0
+4783	Lions	130.0
+4787	Warriors	149.0
+4794	Dolphins	122.0
+4797	Cape Cobras	135.0
+4804	Adelaide Strikers	149.0
+4805	Sydney Sixers	155.0
+4814	Melbourne Renegades	118.0
+4815	Adelaide Strikers	141.0
+4817	Hobart Hurricanes	209.0
+4823	Perth Scorchers	137.0
+4825	Melbourne Stars	154.0
+4829	Melbourne Renegades	81.0
+4834	Melbourne Stars	182.0
+4835	Sydney Sixers	155.0
+4838	Perth Scorchers	148.0
+4839	Griqualand West	112.0
+4845	Boland	138.0
+4850	KwaZulu-Natal Inland	102.0
+4859	Griqualand West	107.0
+4860	Easterns	212.0
+4865	Northerns	162.0
+4869	Himachal Pradesh	112.0
+4873	Gujarat	162.0
+4878	Delhi	162.0
+4880	Andhra	94.0
+4896	Andhra	111.0
+4898	Karnataka	65.0
+4901	Punjab	124.0
+4914	Andhra	151.0
+4922	Karnataka	118.0
+4925	Railways	141.0
+4927	Andhra	123.0
+4929	Gujarat	79.0
+4933	Gujarat	128.0
+4938	Odisha	144.0
+4939	Gujarat	152.0
+4941	Andhra	162.0
+4942	Hyderabad (India)	154.0
+4944	Punjab	102.0
+4947	Gujarat	123.0
+4948	Colts Cricket Club	143.0
+4958	Sinhalese Sports Club	190.0
+4960	Badureliya Sports Club	124.0
+4961	Colts Cricket Club	141.0
+4964	Sri Lanka Ports Authority Cricket Club	85.0
+4975	Colombo Cricket Club	160.0
+4976	Nondescripts Cricket Club	165.0
+4985	Colombo Cricket Club	113.0
+4986	Ragama Cricket Club	91.0
+4988	Sri Lanka Air Force Sports Club	136.0
+4990	Badureliya Sports Club	139.0
+4993	Bangladesh	143.0
+5002	Peshawar Panthers	147.0
+5007	Lahore Lions	105.0
+5009	Kolkata Knight Riders	170.0
+5017	Rajasthan Royals	165.0
+5023	Rajasthan Royals	157.0
+5038	Kolkata Knight Riders	169.0
+5039	Delhi Daredevils	119.0
+5041	Royal Challengers Bangalore	115.0
+5047	Mumbai Indians	153.0
+5052	Kolkata Knight Riders	184.0
+5057	Delhi Daredevils	120.0
+5067	Chennai Super Kings	140.0
+5069	Pakistan	173.0
+5070	Pakistan	176.0
+5087	St Lucia Zouks	150.0
+5088	Barbados Tridents	98.0
+5092	Jamaica Tallawahs	164.0
+5094	Guyana Amazon Warriors	150.0
+5097	Trinidad & Tobago Red Steel	124.0
+5098	St Kitts and Nevis Patriots	139.0
+5099	Jamaica Tallawahs	159.0
+5109	Guyana Amazon Warriors	112.0
+5113	Guyana Amazon Warriors	118.0
+5117	Scotland	110.0
+5119	Ireland	128.0
+5121	Nepal	122.0
+5122	Afghanistan	168.0
+5129	Netherlands	125.0
+5132	Namibia	116.0
+5134	Ireland	54.0
+5138	Scotland	142.0
+5142	Hong Kong	110.0
+5144	Scotland	139.0
+5150	Jersey	107.0
+5156	Ireland	123.0
+5161	Afghanistan	128.0
+5163	Afghanistan	130.0
+5171	South Africa	152.0
+5174	Gloucestershire	179.0
+5175	Lancashire	142.0
+5176	Nottinghamshire	142.0
+5180	Yorkshire	131.0
+5183	Leicestershire	164.0
+5191	Leicestershire	124.0
+5194	Worcestershire	149.0
+5197	Derbyshire	128.0
+5205	Somerset	173.0
+5214	Northamptonshire	167.0
+5229	Kent	174.0
+5233	Worcestershire	139.0
+5241	Warwickshire	136.0
+5251	Nottinghamshire	175.0
+5253	Surrey	155.0
+5259	Surrey	106.0
+5265	Worcestershire	128.0
+5267	Middlesex	110.0
+5272	Sussex	165.0
+5273	Yorkshire	194.0
+5274	Derbyshire	150.0
+5276	Northamptonshire	115.0
+5277	Gloucestershire	117.0
+5281	Northamptonshire	156.0
+5286	Essex	151.0
+5298	Yorkshire	148.0
+5303	Northamptonshire	135.0
+5307	Larkana Region	142.0
+5311	Lahore Region Blues	101.0
+5318	Lahore Region Blues	150.0
+5319	Bahawalpur Region	153.0
+5321	Hyderabad Region	190.0
+5324	Lahore Region Whites	169.0
+5330	Multan Region	133.0
+5341	Karachi Region Blues	182.0
+5343	Abbottabad Region	198.0
+5346	Abbottabad Region	152.0
+5350	Hyderabad Region	160.0
+5352	Peshawar Region	170.0
+5356	Easterns	109.0
+5359	Northerns	118.0
+5365	Boland	135.0
+5367	North West	168.0
+5370	Northern Cape	140.0
+5374	Free State	130.0
+5376	Free State	134.0
+5377	Gauteng	158.0
+5382	Northerns	107.0
+5390	Bangladesh	136.0
+5392	United Arab Emirates	134.0
+5395	Hong Kong	155.0
+5414	Cape Cobras	152.0
+5416	Titans	150.0
+5420	Cape Cobras	144.0
+5427	Dolphins	146.0
+5433	Titans	161.0
+5436	Central Districts	146.0
+5438	Central Districts	135.0
+5441	Otago	140.0
+5444	Otago	78.0
+5452	Canterbury	134.0
+5453	Northern Districts	173.0
+5456	Central Districts	158.0
+5467	Rangpur Riders	188.0
+5468	Dhaka Dynamites	112.0
+5471	Comilla Victorians	177.0
+5474	Comilla Victorians	90.0
+5477	Comilla Victorians	84.0
+5481	Rangpur Riders	113.0
+5482	Barisal Bulls	159.0
+5486	Comilla Victorians	142.0
+5487	Sylhet Super Stars	62.0
+5488	Rangpur Riders	136.0
+5489	Comilla Victorians	106.0
+5493	Sylhet Super Stars	162.0
+5494	Barisal Bulls	141.0
+5496	Barisal Bulls	137.0
+5500	Comilla Victorians	157.0
+5504	England Lions	119.0
+5509	New Zealand	147.0
+5514	Mumbai	95.0
+5515	Rajasthan	133.0
+5517	Delhi	214.0
+5520	Kerala	129.0
+5531	Jharkhand	150.0
+5535	Assam	133.0
+5536	Gujarat	134.0
+5540	Mumbai	128.0
+5542	Delhi	160.0
+5543	Jharkhand	121.0
+5544	Kerala	113.0
+5553	Madhya Pradesh	104.0
+5565	Punjab	100.0
+5567	Karnataka	106.0
+5570	Assam	147.0
+5572	Himachal Pradesh	173.0
+5574	Jharkhand	132.0
+5577	Kerala	139.0
+5581	Gujarat	99.0
+5588	Baroda	168.0
+5593	Kerala	164.0
+5596	Gujarat	146.0
+5598	Baroda	153.0
+5602	New Zealand	171.0
+5604	Bangladesh	166.0
+5614	Sri Lanka Ports Authority Cricket Club	149.0
+5620	Nondescripts Cricket Club	129.0
+5626	Tamil Union Cricket and Athletic Club	132.0
+5634	Sinhalese Sports Club	186.0
+5641	Bloomfield Cricket and Athletic Club	151.0
+5647	Moors Sports Club	104.0
+5649	Sri Lanka Army	166.0
+5650	Tamil Union Cricket and Athletic Club	182.0
+5661	Perth Scorchers	118.0
+5663	Sydney Thunder	121.0
+5666	Adelaide Strikers	182.0
+5668	Melbourne Stars	163.0
+5669	Perth Scorchers	114.0
+5670	Brisbane Heat	189.0
+5673	Melbourne Stars	126.0
+5680	Adelaide Strikers	146.0
+5686	Melbourne Stars	140.0
+5691	Hong Kong	72.0
+5696	Colombo Commandos	163.0
+5697	Hambantota Troopers	117.0
+5699	Galle Guardians	130.0
+5700	Kurunegala Warriors	146.0
+5702	Galle Guardians	181.0
+5704	Kandy Crusaders	156.0
+5707	Galle Guardians	125.0
+5708	Colombo Commandos	147.0
+5709	Ireland	97.0
+5712	Mashonaland Eagles	154.0
+5715	Matabeleland Tuskers	151.0
+5717	Mountaineers	128.0
+5722	Mashonaland Eagles	125.0
+5728	India	84.0
+5731	South Africa	135.0
+5732	South Africa	172.0
+5734	Karachi Kings	131.0
+5736	Quetta Gladiators	153.0
+5739	Quetta Gladiators	139.0
+5741	Islamabad United	169.0
+5748	Islamabad United	131.0
+5752	Islamabad United	151.0
+5754	Islamabad United	115.0
+5756	Islamabad United	175.0
+5757	North Island	127.0
+5760	Afghanistan	168.0
+5767	India	85.0
+5769	Pakistan	131.0
+5770	India	142.0
+5771	Bangladesh	131.0
+5772	India	82.0
+5773	Pakistan	151.0
+5777	Free State	109.0
+5780	Northerns	109.0
+5782	Western Province	73.0
+5784	Easterns	128.0
+5787	North West	149.0
+5799	KwaZulu-Natal	123.0
+5803	South Africa	158.0
+5811	Afghanistan	119.0
+5823	England	230.0
+5824	India	119.0
+5827	Australia	157.0
+5836	India	161.0
+5837	South Africa	122.0
+5838	England	159.0
+5842	Kolkata Knight Riders	99.0
+5846	Gujarat Lions	164.0
+5847	Delhi Daredevils	113.0
+5850	Kings XI Punjab	153.0
+5852	Sunrisers Hyderabad	145.0
+5854	Mumbai Indians	171.0
+5858	Sunrisers Hyderabad	146.0
+5859	Gujarat Lions	182.0
+5864	Mumbai Indians	178.0
+5874	Sunrisers Hyderabad	129.0
+5875	Royal Challengers Bangalore	195.0
+5891	Gujarat Lions	125.0
+5892	Delhi Daredevils	161.0
+5893	Rising Pune Supergiants	173.0
+5894	Gujarat Lions	173.0
+5904	England	144.0
+5913	Guyana Amazon Warriors	101.0
+5914	Guyana Amazon Warriors	109.0
+5917	Guyana Amazon Warriors	139.0
+5919	Jamaica Tallawahs	132.0
+5927	St Lucia Zouks	162.0
+5935	Guyana Amazon Warriors	150.0
+5943	Kent	200.0
+5949	Northamptonshire	197.0
+5956	Worcestershire	174.0
+5959	Somerset	181.0
+5960	Glamorgan	143.0
+5962	Northamptonshire	147.0
+5963	Derbyshire	123.0
+5965	Warwickshire	155.0
+5966	Nottinghamshire	185.0
+5967	Leicestershire	123.0
+5970	Somerset	189.0
+5971	Worcestershire	170.0
+5975	Sussex	143.0
+5983	Gloucestershire	160.0
+5991	Somerset	136.0
+5996	Glamorgan	114.0
+6000	Essex	136.0
+6004	Northamptonshire	152.0
+6013	Sussex	147.0
+6016	Gloucestershire	152.0
+6022	Leicestershire	164.0
+6027	Nottinghamshire	128.0
+6029	Durham	147.0
+6032	Derbyshire	170.0
+6034	Kent	181.0
+6036	Worcestershire	166.0
+6037	Durham	153.0
+6039	Nottinghamshire	162.0
+6045	Middlesex	200.0
+6048	Surrey	154.0
+6050	Glamorgan	156.0
+6059	Gloucestershire	162.0
+6066	Northamptonshire	135.0
+6085	Lahore Blues	143.0
+6087	Karachi Whites	179.0
+6096	Karachi Whites	143.0
+6105	Lahore Blues	129.0
+6110	Pakistan	116.0
+6112	Pakistan	108.0
+6115	North West	135.0
+6120	Border	129.0
+6132	Boland	144.0
+6143	Rangpur Riders	125.0
+6144	Rangpur Riders	45.0
+6151	Barisal Bulls	167.0
+6162	Rangpur Riders	129.0
+6171	Comilla Victorians	145.0
+6172	Chittagong Vikings	135.0
+6174	Comilla Victorians	125.0
+6176	Comilla Victorians	142.0
+6177	Dhaka Dynamites	135.0
+6195	Titans	186.0
+6202	Warriors	153.0
+6205	Dolphins	171.0
+6206	Warriors	94.0
+6211	Cape Cobras	152.0
+6213	Warriors	217.0
+6219	Warriors	138.0
